@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/multi-linear-regression.git
+git clone https://github.com/your-Wizbik27/multi-linear-regression.git
 cd multi-linear-regression
 Prepare the dataset:
 
